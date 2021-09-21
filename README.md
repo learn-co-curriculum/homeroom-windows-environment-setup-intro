@@ -1,7 +1,7 @@
-# Resource: Environment Setup Instructions
+# Resource: MacOS Environment Setup Instructions
 
-The next two sections contain the lessons that walk through the environment
-setup process for MacOS and Windows.
+This section and the next contain the lessons that walk through the environment
+setup process for MacOS and Windows, respectively.
 
 You should have set up your local environment when you were completing the
 Prework, so this information is included here for your convenience.
